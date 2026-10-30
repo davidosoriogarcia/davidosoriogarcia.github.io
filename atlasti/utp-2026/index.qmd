@@ -6,6 +6,7 @@ title: "Análisis de datos cualitativos con ATLAS.ti e integración de IA"
 
 [Ejercicio de codificación de la sesión 1](ejercicio/index.html)
 
+------------------------------------------------------------------------
 
 ::: {custom-style="Firma"}
 David Osorio García
