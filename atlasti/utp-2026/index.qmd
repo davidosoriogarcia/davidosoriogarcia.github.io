@@ -1,16 +1,85 @@
 ---
 title: "Análisis de datos cualitativos con ATLAS.ti e integración de IA"
-subtitle: "Universidad Tecnológica de Pereira, Maestría en Educación, 2026"
 ---
-
-## Sesiones
-
-- Viernes 30 de octubre de 2026, 5:00 p. m. a 9:00 p. m.
-- Sábado 31 de octubre de 2026, 8:00 a. m. a 2:00 p. m.
 
 ## Ejercicio
 
 [Ejercicio de codificación de la sesión 1](ejercicio/index.html)
+
+
+::: {custom-style="Firma"}
+David Osorio García
+
+david.osorio\@ucaldas.edu.co
+
+[CvLAC](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001462663)
+
+[ORCID](https://orcid.org/0000-0002-9944-364X)
+:::
+
+**Programa:** Maestría en Educación, Universidad Tecnológica de Pereira
+
+**Modalidad:** Virtual, por Google Meet.
+
+**Fechas:**
+
+-   Viernes 30 de octubre de 2026. 5:00 p. m. a 9:00 p. m.
+
+-   Sábado 31 de octubre de 2026. 8:00 a. m. a 2:00 p. m.
+
+**Intensidad:** 10 horas.
+
+## Antes del taller
+
+Quien quiera seguir los ejercicios en su computador puede instalar la versión de prueba de ATLAS.ti con el instructivo adjunto. Recomiendo solicitar la prueba en la semana anterior al taller y abrir el programa una sola vez antes de la primera sesión, pues dura 20 días calendario y permite cinco días de uso. Se sugiere leer antes del taller el texto de Coffey y Atkinson (2003) que aparece en la bibliografía con su enlace de descarga.
+
+## Justificación
+
+En cualquier área del conocimiento, quien investiga con datos cualitativos enfrenta el desafío de organizarlos y analizarlos. ATLAS.ti es un programa para organizar y analizar información en formatos de texto, imagen, audio y video. Aunque su origen se vincula a la Teoría Fundamentada, su arquitectura permite la extracción y comparación de datos en diversos marcos metodológicos. Este taller parte de que cualquier estudio que requiera un tratamiento sistemático de la evidencia empírica puede integrar este software como soporte analítico. Su propósito es formar investigadores capaces de aprovechar la eficiencia técnica sin comprometer el rigor ni la validez de sus resultados.
+
+ATLAS.ti sirve tanto para el análisis inductivo como para el deductivo. El primero explora los datos para generar teoría, y el segundo parte de conceptos previos para contrastar categorías. En ambos casos, el análisis necesita preguntas de investigación que orienten con rigor el trabajo con el material. El software no sustituye la actividad intelectual del investigador: en cada procedimiento de codificación y relación, el analista interviene mediante procesos de abstracción y síntesis. El taller sostiene que el manejo técnico es inseparable de la lógica de investigación.
+
+La integración de la inteligencia artificial (IA) está cambiando esa relación, porque permite automatizar tareas tradicionalmente manuales. Con ella es posible procesar información a una escala que antes resultaba inmanejable. Los avances en el Procesamiento del Lenguaje Natural facilitan la transcripción de entrevistas y otros registros orales, y los modelos de lenguaje actuales permiten identificar patrones temáticos en grandes volúmenes de documentos. El taller examina cómo incorporar la codificación asistida por IA al trabajo cualitativo para agilizar el análisis.
+
+El taller organiza el uso de la IA en dos enfoques. En el primero, la IA funciona como asistente de investigación: el investigador configura asistentes con modelos de lenguaje que le ayudan a resolver dudas técnicas sobre ATLAS.ti o a ordenar metodológicamente sus preguntas. El segundo enfoque se refiere al apoyo directo en el análisis de datos. Incluye las funciones de IA integradas en ATLAS.ti, que sugieren códigos para que el investigador los valide. Así cambia el papel del investigador, que pasa a supervisar lo que ejecutan los algoritmos.
+
+Finalmente, el uso de estas tecnologías requiere una mirada crítica. La IA apoya la reflexividad humana sin reemplazarla, pues la comprensión del contexto y la interpretación cualitativa son competencias que no pueden delegarse.
+
+## Resultados de aprendizaje
+
+**General:** Reconoce cómo ATLAS.ti y los asistentes de inteligencia artificial apoyan el análisis sistemático de datos cualitativos y cómo dejar registro de cada interpretación.
+
+-   Reconoce cómo se organiza en un proyecto de ATLAS.ti un material de texto e imagen, y cómo empieza el análisis con la primera codificación.
+
+-   Distingue cómo se codifican segmentos del material y cómo se agrupan los códigos según la pregunta de investigación.
+
+-   Valora las sugerencias de códigos de las funciones de IA de ATLAS.ti y decide cuáles conservaría, corregiría o descartaría.
+
+-   Reconoce cómo se configura un asistente con un modelo de lenguaje de gran escala para resolver dudas técnicas y ordenar metodológicamente un análisis.
+
+-   Evalúa los códigos y hallazgos que propone la IA según su coherencia con los datos.
+
+-   Comprende cómo los memos registran las decisiones analíticas, propias y asistidas por IA, para que otro lector pueda seguir cómo se llegó a cada interpretación.
+
+## Contenidos
+
+El taller se organiza en dos sesiones (10 horas): el viernes 30 de octubre, de 5:00 a 9:00 p. m., y el sábado 31 de octubre, de 8:00 a. m. a 2:00 p. m. La primera sesión dedica tres horas a los fundamentos y una al primer trabajo en ATLAS.ti; la segunda continúa en el programa, incorpora sus funciones de IA y cierra con los asistentes de IA fuera de él.
+
+### Sesión 1. Viernes 30 de octubre. 5:00 p. m. a 9:00 p. m.
+
+*Fundamentos del análisis de datos cualitativos asistido por software.* Durante las tres primeras horas analizo la relación entre el análisis cualitativo y los programas informáticos. Propongo distinguir la metodología, que es el papel insustituible del investigador, de la herramienta técnica, que aporta eficiencia al proceso. Busco que los estudiantes comprendan las nociones de codificación, conceptualización y sensibilidad teórica antes de usar el software, para que la lógica de la investigación preceda siempre a su manejo.
+
+*Primeros pasos en ATLAS.ti.* En la última hora muestro cómo crear un proyecto y cargar documentos de texto e imagen; quien tenga el programa instalado puede hacerlo a la par. Con las primeras citas empieza el análisis, pues la manera de segmentar el material y de nombrar los códigos es una decisión interpretativa, tanto en un trabajo inductivo como en uno deductivo.
+
+### Sesión 2. Sábado 31 de octubre. 8:00 a. m. a 2:00 p. m.
+
+*Reducción de datos y funciones de IA en ATLAS.ti.* La sesión parte de una pregunta: ¿cómo usar ATLAS.ti para el análisis riguroso de información cualitativa? Para responderla, muestro cómo segmentar el material en citas, crear y agrupar códigos y escribir memos que registran las decisiones. Después incorporo las funciones de IA integradas en el programa, que sugieren códigos y resumen documentos, y muestro cómo validar cada sugerencia con criterio propio. Insisto en que, en este punto del análisis, el investigador abstrae y relaciona por su cuenta, sin depender mecánicamente del software.
+
+*Integración de la inteligencia artificial en el análisis cualitativo.* La parte final responde a otra pregunta: ¿cómo usar los chats de IA como coinvestigadores en el análisis de datos cualitativos? Examino el uso de modelos de lenguaje de gran escala, como Claude, en su función de asistentes metodológicos para estructurar modelos de análisis o depurar categorías, y muestro cómo configurar un asistente que resuelva dudas del propio análisis sin delegar en él la interpretación. Cierro la sesión con una discusión colectiva sobre la validez, el rigor y la calidad del análisis cualitativo cuando interviene la inteligencia artificial.
+
+## Estrategias de enseñanza
+
+El taller sigue el aprendizaje basado en problemas: los estudiantes trabajan sobre desafíos reales del análisis cualitativo. En cada sesión combino la exposición con ejercicios en los que aplican los conceptos, en su propio computador o siguiendo lo que muestro en pantalla. El intercambio de criterios metodológicos entre los participantes completa lo que cada uno aprende para su propia investigación.
 
 ## Bibliografía
 
