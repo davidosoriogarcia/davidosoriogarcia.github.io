@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - "atlasti/utp-2026/ejercicio/index.html"
+    - ".nojekyll"
+
+lang: es
+
+website:
+  title: "David Osorio-García"
+  site-url: "https://davidosoriogarcia.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: atlasti/index.qmd
+        text: Taller de ATLAS.ti
+
+format:
+  html:
+    theme: cosmo
+    mainfont: Roboto
+    toc: false
