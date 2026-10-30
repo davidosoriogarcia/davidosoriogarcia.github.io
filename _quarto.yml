@@ -11,6 +11,8 @@ website:
   title: "David Osorio-García"
   site-url: "https://davidosoriogarcia.github.io"
   navbar:
+    background: "#ffffff"
+    foreground: "#1a1a1a"
     left:
       - href: index.qmd
         text: Inicio
@@ -19,6 +21,6 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: [cosmo, estilos.scss]
     mainfont: Roboto
     toc: false

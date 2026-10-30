@@ -1,0 +1,28 @@
+/*-- scss:defaults --*/
+$body-bg: #ffffff;
+$body-color: #1a1a1a;
+$headings-color: #111111;
+$link-color: #0b4a7d;
+$text-muted: #3d3d3d;
+$navbar-bg: #ffffff;
+$navbar-fg: #1a1a1a;
+$navbar-hl: #0b4a7d;
+$line-height-base: 1.6;
+
+/*-- scss:rules --*/
+// Lectura: cuerpo de 19 px en computador y 17 px en teléfono, líneas de unos 70 caracteres, contraste de 7:1 o más.
+html, :root { font-size: 17px; }
+@media (min-width: 768px) { html, :root { font-size: 19px; } }
+body { line-height: 1.6; }
+main.content { max-width: 36em; }   // 70ch mide el ancho del cero y deja unos 89 caracteres; 36em deja unos 70
+a { text-decoration: underline; text-underline-offset: 2px; }
+.navbar { border-bottom: 1px solid #6b6b6b; }
+.navbar .nav-link, .navbar .navbar-title { color: #1a1a1a !important; }
+.navbar .nav-link.active { color: #0b4a7d !important; }
+.quarto-title .subtitle, .text-muted { color: #3d3d3d !important; }
+
+.firma { text-align: right; margin: 1.2rem 0 1.4rem; }
+.firma p { margin: 0 0 .15rem; }
+.firma .nombre { font-weight: 700; font-size: 1.1rem; }
+.datos-curso { background: #f4f4f2; border: 1px solid #6b6b6b; border-radius: 8px; padding: 1rem 1.25rem .4rem; margin: 0 0 2rem; color: #1a1a1a; }
+.datos-curso p, .datos-curso ul { margin-bottom: .6rem; }

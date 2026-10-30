@@ -4,12 +4,12 @@ title: "Análisis de datos cualitativos con ATLAS.ti e integración de IA"
 
 ## Ejercicio
 
-[Ejercicio de codificación de la sesión 1](ejercicio/index.html)
+[Ejercicio de codificación](ejercicio/index.html){target="_blank" rel="noopener"}
 
 ------------------------------------------------------------------------
 
-::: {custom-style="Firma"}
-David Osorio García
+::: {.firma}
+[David Osorio García]{.nombre}
 
 david.osorio\@ucaldas.edu.co
 
@@ -18,6 +18,7 @@ david.osorio\@ucaldas.edu.co
 [ORCID](https://orcid.org/0000-0002-9944-364X)
 :::
 
+::: {.datos-curso}
 **Programa:** Maestría en Educación, Universidad Tecnológica de Pereira
 
 **Modalidad:** Virtual, por Google Meet.
@@ -29,10 +30,11 @@ david.osorio\@ucaldas.edu.co
 -   Sábado 31 de octubre de 2026. 8:00 a. m. a 2:00 p. m.
 
 **Intensidad:** 10 horas.
+:::
 
-## Antes del taller
+## Instalación de ATLAS.ti
 
-Quien quiera seguir los ejercicios en su computador puede instalar la versión de prueba de ATLAS.ti con el instructivo adjunto. Recomiendo solicitar la prueba en la semana anterior al taller y abrir el programa una sola vez antes de la primera sesión, pues dura 20 días calendario y permite cinco días de uso. Se sugiere leer antes del taller el texto de Coffey y Atkinson (2003) que aparece en la bibliografía con su enlace de descarga.
+Quien quiera seguir los ejercicios en su computador puede instalar la versión de prueba de ATLAS.ti con [las instrucciones](https://drive.google.com/file/d/1KMgT0UFrfE6Cg7LpfJH9_OB3qkNqmB8H/view?usp=sharing).
 
 ## Justificación
 
