@@ -4,27 +4,4 @@ title: "Taller de ATLAS.ti"
 
 ## Edición vigente
 
-- [2026. Universidad Tecnológica de Pereira, Maestría en Educación](utp-2026/index.qmd)
-
-## Ediciones anteriores
-
-- 2026-2. Universidad Autónoma de Manizales, Doctorado en Sostenibilidad
-- 2026-1. Universidad Autónoma de Manizales, Doctorado en Ciencias Cognitivas
-- 2025-2. Universidad Tecnológica de Pereira, Maestría en Educación
-- 2025-2. Universidad Tecnológica de Pereira, Doctorado
-- 2024-2. Universidad Autónoma de Manizales, Doctorado en Ciencias Cognitivas
-- 2024-1. Universidad Autónoma de Manizales, Doctorado en Ciencias Cognitivas
-- 2023-2. Universidad Tecnológica de Pereira, Doctorado
-- 2022-2. Universidad Tecnológica de Pereira, Doctorado
-- 2022-2. Universidad de Caldas, MCYD
-- 2022-2. Universidad de Caldas, MACISO
-- 2021-2. Universidad de Caldas, MACISO
-- 2021-2. Universidad Católica de Manizales, Maestría
-- 2021-2. Universidad Autónoma de Manizales, Doctorado en Ciencias Cognitivas
-- 2021-1. Universidad de Caldas, MEGES
-- 2021-1. Universidad de Caldas, MACISO
-- 2020-2. Universidad de Caldas, MACISO
-- 2020-2. Universidad de Caldas, Gerontología
-- 2019-1. Universidad Autónoma de Manizales, Doctorado en Ciencias Cognitivas
-- 2018-1. Universidad Tecnológica de Pereira, Maestría
-- 2018-1. Universidad Tecnológica de Pereira, Doctorado
+- [2026-2. Universidad Tecnológica de Pereira, Maestría en Educación](utp-2026/index.qmd)
