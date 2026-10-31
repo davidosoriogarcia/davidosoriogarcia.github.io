@@ -29,4 +29,4 @@ a { text-decoration: underline; text-underline-offset: 2px; }
 
 // Página de una edición: el plan del curso va justificado, con guiones para que no queden huecos.
 .plan-curso main.content p, .plan-curso main.content li { text-align: justify; hyphens: auto; }
-.plan-curso .firma p { text-align: right; }
+.plan-curso main.content .firma p { text-align: right; }
