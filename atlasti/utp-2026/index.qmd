@@ -1,5 +1,6 @@
 ---
 title: "Análisis de datos cualitativos con ATLAS.ti e integración de IA"
+body-classes: plan-curso
 ---
 
 ## Ejercicio
