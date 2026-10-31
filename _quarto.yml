@@ -3,6 +3,7 @@ project:
   output-dir: docs
   resources:
     - "atlasti/utp-2026/ejercicio/index.html"
+    - "atlasti/utp-2026/sintesis/index.html"
     - ".nojekyll"
 
 lang: es
