@@ -6,6 +6,8 @@ title: "Análisis de datos cualitativos con ATLAS.ti e integración de IA"
 
 [Ejercicio de codificación](ejercicio/index.html){target="_blank" rel="noopener"}
 
+[Síntesis del ejercicio](sintesis/index.html){target="_blank" rel="noopener"}
+
 ------------------------------------------------------------------------
 
 ::: {.firma}
