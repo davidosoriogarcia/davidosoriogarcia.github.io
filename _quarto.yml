@@ -5,12 +5,13 @@ project:
     - "atlasti/utp-2026/ejercicio/index.html"
     - "atlasti/utp-2026/sintesis/index.html"
     - ".nojekyll"
+    - "CNAME"
 
 lang: es
 
 website:
   title: "David Osorio-García"
-  site-url: "https://davidosoriogarcia.github.io"
+  site-url: "https://davidosoriogarcia.com"
   navbar:
     background: "#ffffff"
     foreground: "#1a1a1a"
