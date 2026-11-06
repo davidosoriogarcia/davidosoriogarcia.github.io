@@ -2,8 +2,9 @@ project:
   type: website
   output-dir: docs
   resources:
-    - "atlasti/utp-2026/ejercicio/index.html"
-    - "atlasti/utp-2026/sintesis/index.html"
+    - "atlasti/utp-2026/grupo/index.html"
+    - "atlasti/utp-2026/grupo/ejercicio/index.html"
+    - "atlasti/utp-2026/grupo/sintesis/index.html"
     - ".nojekyll"
     - "CNAME"
 

@@ -30,3 +30,7 @@ a { text-decoration: underline; text-underline-offset: 2px; }
 // Página de una edición: el plan del curso va justificado, con guiones para que no queden huecos.
 .plan-curso main.content p, .plan-curso main.content li { text-align: justify; hyphens: auto; }
 .plan-curso main.content .firma p { text-align: right; }
+
+// Botón de la edición que abre el material cifrado del grupo.
+.boton-grupo { display: inline-block; background: #0b4a7d; color: #ffffff !important; font-weight: 500; text-decoration: none; padding: .5rem 1.25rem; border-radius: 8px; }
+.boton-grupo:hover, .boton-grupo:focus { background: #083a63; }
