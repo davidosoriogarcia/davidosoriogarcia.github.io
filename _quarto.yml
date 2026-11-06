@@ -5,6 +5,7 @@ project:
     - "atlasti/utp-2026/grupo/index.html"
     - "atlasti/utp-2026/grupo/ejercicio/index.html"
     - "atlasti/utp-2026/grupo/sintesis/index.html"
+    - "atlasti/utp-2026/grupo/grabaciones/index.html"
     - ".nojekyll"
     - "CNAME"
 
