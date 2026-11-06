@@ -6,6 +6,7 @@ project:
     - "atlasti/utp-2026/grupo/ejercicio/index.html"
     - "atlasti/utp-2026/grupo/sintesis/index.html"
     - "atlasti/utp-2026/grupo/grabaciones/index.html"
+    - "fuentes/*"
     - ".nojekyll"
     - "CNAME"
 
@@ -26,9 +27,12 @@ website:
 format:
   html:
     theme: [cosmo, estilos.scss]
-    mainfont: Roboto
     toc: false
     # Regla del sitio: todo enlace que sale del sitio abre en pestaña nueva y los internos en la misma.
     # Quarto la aplica a cualquier enlace nuevo. Las páginas cifradas se arman con su propio _quarto.yml
     # (Pagina_del_grupo/ de cada edición, fuera de este repositorio), que lleva la misma línea.
     link-external-newwindow: true
+    # Medición de visitas (Cloudflare Web Analytics). El código no es secreto: queda a la vista en cada página.
+    include-after-body:
+      text: |
+        <!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "130b526755304fdc8af98c499dd98f49"}'></script><!-- End Cloudflare Web Analytics -->

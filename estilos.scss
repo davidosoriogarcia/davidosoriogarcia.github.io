@@ -1,36 +1,58 @@
 /*-- scss:defaults --*/
+// Letra alojada en el sitio: nada se pide a Google Fonts (sin el @import del tema cosmo).
+$web-font-path: false;
+$font-family-sans-serif: "Atkinson Hyperlegible Next", system-ui, sans-serif;
 $body-bg: #ffffff;
 $body-color: #1a1a1a;
 $headings-color: #111111;
-$link-color: #0b4a7d;
+$link-color: #1B5E63;
+$link-hover-color: #14494D;
 $text-muted: #3d3d3d;
 $navbar-bg: #ffffff;
 $navbar-fg: #1a1a1a;
-$navbar-hl: #0b4a7d;
-$line-height-base: 1.6;
+$navbar-hl: #1B5E63;
+$line-height-base: 1.5;
+// Títulos con razón 1,2 sobre el cuerpo, sin tamaños que dependan del ancho de la ventana.
+$enable-rfs: false;
+$h1-font-size: 1.73rem;
+$h2-font-size: 1.44rem;
+$h3-font-size: 1.2rem;
+$h4-font-size: 1rem;
+$headings-font-weight: 600;
+$headings-line-height: 1.2;
+$font-weight-bold: 600;
+$font-weight-bolder: 600;
 
 /*-- scss:rules --*/
+// Atkinson Hyperlegible Next (SIL Open Font License, fuentes/OFL.txt). Ruta relativa: Quarto copia los archivos junto a
+// la hoja en el sitio y las incrusta en las páginas cifradas; una ruta desde la raíz hace fallar embed-resources.
+@font-face { font-family: "Atkinson Hyperlegible Next"; font-style: normal; font-weight: 400; font-display: swap; src: url("fuentes/atkinson-hyperlegible-next-latin-400-normal.woff2") format("woff2"); }
+@font-face { font-family: "Atkinson Hyperlegible Next"; font-style: italic; font-weight: 400; font-display: swap; src: url("fuentes/atkinson-hyperlegible-next-latin-400-italic.woff2") format("woff2"); }
+@font-face { font-family: "Atkinson Hyperlegible Next"; font-style: normal; font-weight: 600; font-display: swap; src: url("fuentes/atkinson-hyperlegible-next-latin-600-normal.woff2") format("woff2"); }
+
 // Lectura: cuerpo de 19 px en computador y 17 px en teléfono, líneas de unos 70 caracteres, contraste de 7:1 o más.
 html, :root { font-size: 17px; }
 @media (min-width: 768px) { html, :root { font-size: 19px; } }
-body { line-height: 1.6; }
-main.content { max-width: 36em; }   // 70ch mide el ancho del cero y deja unos 89 caracteres; 36em deja unos 70
+body { line-height: 1.5; }
+h1, h2, h3, h4, .h1, .h2, .h3, .h4 { font-weight: 600; line-height: 1.2; }
+h4, .h4 { font-size: 1rem; }
+main.content { max-width: 31em; margin-inline: auto; }   // 31em deja unos 66 caracteres por línea de promedio y 73 de máximo (párrafo del plan, Atkinson)
 a { text-decoration: underline; text-underline-offset: 2px; }
 .navbar { border-bottom: 1px solid #6b6b6b; }
 .navbar .nav-link, .navbar .navbar-title { color: #1a1a1a !important; }
-.navbar .nav-link.active { color: #0b4a7d !important; }
+.navbar .nav-link.active { color: #1B5E63 !important; }
+.navbar .nav-link.active:hover, .navbar .nav-link.active:focus { color: #14494D !important; }
 .quarto-title .subtitle, .text-muted { color: #3d3d3d !important; }
 
 .firma { text-align: right; margin: 1.2rem 0 1.4rem; }
 .firma p { margin: 0 0 .15rem; }
-.firma .nombre { font-weight: 700; font-size: 1.1rem; }
+.firma .nombre { font-weight: 600; font-size: 1.1rem; }
 .datos-curso { background: #f4f4f2; border: 1px solid #6b6b6b; border-radius: 8px; padding: 1rem 1.25rem .4rem; margin: 0 0 2rem; color: #1a1a1a; }
 .datos-curso p, .datos-curso ul { margin-bottom: .6rem; }
 
-// Página de una edición: el plan del curso va justificado, con guiones para que no queden huecos.
-.plan-curso main.content p, .plan-curso main.content li { text-align: justify; hyphens: auto; }
-.plan-curso main.content .firma p { text-align: right; }
+// Página de una edición: el nombre del curso va centrado (regla 6 de 00_Docencia/CLAUDE.md).
+.plan-curso .quarto-title .title { text-align: center; }
 
 // Botón de la edición que abre el material cifrado del grupo.
-.boton-grupo { display: inline-block; background: #0b4a7d; color: #ffffff !important; font-weight: 500; text-decoration: none; padding: .5rem 1.25rem; border-radius: 8px; }
-.boton-grupo:hover, .boton-grupo:focus { background: #083a63; }
+.boton-grupo { display: inline-block; background: #1B5E63; color: #ffffff !important; font-weight: 600; text-decoration: none; padding: .5rem 1.25rem; border-radius: 8px; }
+.boton-grupo:hover, .boton-grupo:focus { background: #14494D; }
